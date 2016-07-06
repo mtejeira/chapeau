@@ -4,3 +4,9 @@ c:\users\mati\documents\visual studio 2013\Projects\WebApplication2\WebApplicati
 c:\users\mati\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
 c:\users\mati\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
 c:\users\mati\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\Chapeau.csprojResolveAssemblyReference.cache
+C:\Users\Mati\Desktop\Repo Chapeau\chapeau\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Mati\Desktop\Repo Chapeau\chapeau\WebApplication2\bin\WebApplication2.dll
+C:\Users\Mati\Desktop\Repo Chapeau\chapeau\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Mati\Desktop\Repo Chapeau\chapeau\WebApplication2\obj\Debug\Chapeau.csprojResolveAssemblyReference.cache
+C:\Users\Mati\Desktop\Repo Chapeau\chapeau\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Mati\Desktop\Repo Chapeau\chapeau\WebApplication2\obj\Debug\WebApplication2.pdb
